@@ -54,10 +54,11 @@
    ```
  4. 输入 8
  5. 看提示操作，一般都是默认就好。等待安装完成后会重启服务器 
- 6. 配置xray客户端:[V2rayN 配置教程以及配置VLESS协议](https://v2xtls.org/v2rayn-4-12%e9%85%8d%e7%bd%ae%e6%95%99%e7%a8%8b/)
+ 6. 配置windows xray客户端:[V2rayN 配置教程以及配置VLESS协议](https://v2xtls.org/v2rayn-4-12%e9%85%8d%e7%bd%ae%e6%95%99%e7%a8%8b/)
     > V2rayN：3.28版本起支持xray，只需要下载[Xray-core](https://pan.baidu.com/s/1mjaqZ9pvKKbf4U2_fPABVA)，将解压的文件放到[V2rayN-Core](https://pan.baidu.com/s/1hLFiysvUbYBjY8vHltJlLQ)文件夹下即可。需要注意的是V2rayN 4.0版本移除了PAC，改用路由规则.
+7. 其他操作系统的客户端请移步[这里](https://www.jamesdailylife.com/xray_software)  
 
-相关文章
+#### 相关文章
 - [xray教程](https://itlanyan.com/xray-tutorial/)
 - [V2rayN 配置教程以及配置VLESS协议](https://v2xtls.org/v2rayn-4-12%e9%85%8d%e7%bd%ae%e6%95%99%e7%a8%8b/)
 - [V2Ray高级技巧：流量伪装](https://itlanyan.com/v2ray-traffic-mask/#bnp_i_2)

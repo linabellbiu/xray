@@ -1,4 +1,4 @@
-# div xray && 科学上网 && VLESS协议 && XTLS
+# 自己搭建vpn && xray && 科学上网 && VLESS协议 && XTLS
 # 此教程仅限学习交流，禁止发布侮辱、造谣、损害国家利益等相关内容。
 # 脚本摘录大神[@hijkpw](https://github.com/hijkpw)[一键搭建脚本](https://github.com/hijkpw/scripts/tree/master) 非常感谢为自由上网做出的贡献
 

@@ -70,3 +70,8 @@
 - [域名服务商https://www.namesilo.com/](https://www.namesilo.com/)
   > 便宜，但是解析dns超级慢可能需要2个小时
 - [从阿里获取免费证书](https://itlanyan.com/get-free-ssl-certificates-from-aliyun/)
+
+
+
+#### 写在最后
+如果你嫌弃麻烦或者效果不好的话，试一下这个邀请链接[传送门](https://xn--4gq62f52gdss.com/#/register?code=FiaHvTyk)
